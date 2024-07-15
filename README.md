@@ -1,1 +1,1 @@
-# Stock
+# Predictive Modeling Of Stock Prices
